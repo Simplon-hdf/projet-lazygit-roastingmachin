@@ -30,16 +30,16 @@
  |build:| changement qui affecte le build system ou des dépendances externes|
  |ci:| changement de notre fichier et scripts de configuration CI|
  |docs:|changement uniquement dans la documentation|
- |perf:|code change that improve performance|
- |refactor:|a code change that neither fixes bug neither add features|
- |style:| change that not affect the meaning of the code|
- |test:| add or correcting test|
- |chore|modif file without modify the code|
+ |perf:|changement du code afin d'améliorer les performances|
+ |refactor:|un changement de code qui n'ajoute ni des fonctionnalités ni des corrections de bugs |
+ |style:| changement qui n'affecte pas le code|
+ |test:| ajoute ou midifie des test|
+ |chore|modification de fichier sans affecter le code|
 
- - ### optional scope :
-    * points to a specific component which is affected by the change.
+ - ### étendu optionnel :
+    * pointe le fichier spécifique.
 
   - ### Commit Description : 
-    * Use the **imperative present tense**. Use "Add feature xy" or "Add tests for"
-    * It should be no more than **100 characters**long.
+    * Utiliser le **présent **. Utiliser "add fonctionnalité xy" or "Add tests pour"
+    * Cela ne doit pas dépasser plus de **100 characters**.
     

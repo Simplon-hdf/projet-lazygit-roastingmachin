@@ -1,19 +1,29 @@
-<center>
+  <p align="center">
+  <img src="./img/Capture_decran_du_2024-03-27_15-55-31.png" alt="image" width="300" height="auto">
+<h1 align="center">LazygitProject</h1>
 
-# 🚀 LazygitProject
+Bienvenue sur LazygitProject! Il s’agit d’un projet fantastique visant à fournir une solution complète pour notre promo `dev-inté-p2-2024`
 
+<<<<<<< HEAD
 </center>
 
 Bienvenue sur LazygitProject! Il s’agit d’un projet fantastique visant à fournir une solution complète pour notre promo `dev-inté-p2-2024`
 
+=======
+>>>>>>> 91df5ebaff1ccf30d27ce81dbf9d9a24fc4db9b6
 ## Table des matières
 
 - [Fonctionnalités](#✨-fonctionnalités)
-- [Installation](#)
+- [Installation](./src/Install.md)
 - [Cheat sheet]()
 - [Convention de nommage]()
+<<<<<<< HEAD
 - [Exercice]()
 - [Contribution](#contribution)
+=======
+- [Exercice](./doc/exo.md)
+- [Contribution](#pencil2-contribution)
+>>>>>>> 91df5ebaff1ccf30d27ce81dbf9d9a24fc4db9b6
 
 ## ✨ Fonctionnalités
 
