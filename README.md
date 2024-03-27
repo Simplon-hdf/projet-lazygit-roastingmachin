@@ -9,10 +9,10 @@ Bienvenue sur LazygitProject! Il s’agit d’un projet fantastique visant à fo
 ## Table des matières
 
 - [Fonctionnalités](#✨-fonctionnalités)
-- [Installation](#)
-- [Cheat sheet]()
+- [Installation](./src/Install.md)
+- [Cheat sheet]( )
 - [Convention de nommage]()
-- [Exercice]()
+- [Exercice](./doc/exo.md)
 - [Contribution](#contribution)
 
 ## ✨ Fonctionnalités
