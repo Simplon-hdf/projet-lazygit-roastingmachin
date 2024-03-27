@@ -8,6 +8,7 @@
    - [ ]faire un git update -v (pour verifier la bonne config)
    - [ ]créer un fichier (touch)
 
-- [ ]lancer lazy git avec la commande `lazygit`
-
+- [ ]lancer lazy git avec la commande `lazygit`  
+vous devriez avoir ceci dans le terminal
+![image](../res/Img/exo/menu-principal.png)
 
