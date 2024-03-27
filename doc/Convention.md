@@ -12,11 +12,9 @@
   4. ## Convention des commit : 
      structure du commit : 
     
-  <type>[étendu optionnel]:< description>
-  <!--------ligne d'espace blanche------------>
-  [corps optionnel]
-  <!--------ligne d'espace blanche------->
-  [pieds optionnel] 
+    <type>[étendu optionnel]:< description>
+    [corps optionnel]
+    [pieds optionnel] 
 
 
  1. fix : un type _fix_ répare les bug de code
@@ -29,9 +27,9 @@
 
  |type|description|
  |----|-----------|
- |build:| changement qui affecte|
- |ci:| changes to CI configuration file and scripts|
- |docs:|Documentation changes only|
+ |build:| changement qui affecte le build system ou des dépendances externes|
+ |ci:| changement de notre fichier et scripts de configuration CI|
+ |docs:|changement uniquement dans la documentation|
  |perf:|code change that improve performance|
  |refactor:|a code change that neither fixes bug neither add features|
  |style:| change that not affect the meaning of the code|
