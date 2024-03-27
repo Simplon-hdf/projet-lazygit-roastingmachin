@@ -4,14 +4,15 @@
 
 </center>
 
-Welcome to LazygitProject! This is a fantastic project aimed at providing a comprehensive solution to [insert project purpose here].
+Bienvenue sur LazygitProject! Il s’agit d’un projet fantastique visant à fournir une solution complète pour notre promo `dev-inté-p2-2024`
 
-## Table of Contents
+## Table des matières
 
 - [Fonctionnalités](#✨-fonctionnalités)
 - [Installation](#)
 - [Cheat sheet]()
 - [Convention de nommage]()
+- [Exercice]()
 - [Contribution](#contribution)
 
 ## ✨ Fonctionnalités
@@ -39,11 +40,12 @@ Lazygit est une interface utilisateur basée sur terminal (TUI) pour Git, conçu
 
 En somme, Lazygit vise à rendre les opérations Git plus accessibles et plus efficaces pour les utilisateurs novices et expérimentés en fournissant une interface visuelle pratique pour les tâches Git courantes.
 
-**Clone the repository:**
+**Cloner le repositorie:**
 
-    ```sh
-    git clone notre lien de repo
-    ```
+```
+https://github.com/FlorianPeaudecerf/projet-lazygit-roastingmachin.git
+```
+
 
 ## :pencil2: Contribution
 
