@@ -1,9 +1,9 @@
 # Convention de nommage
   
   1. ## nommage des dossiers :
-    - pas d'espace dans le nom du fichier (utilisation du "**-**" --> kebab case)
-    - pas de caractère spécial
-    - pas de majuscule (certains language sont sensible à la casse)
+  - pas d'espace dans le nom du fichier (utilisation du "**-**" --> kebab case)
+  - pas de caractère spécial
+  - pas de majuscule (certains language sont sensible à la casse)
 
   2. ## licence :
 
@@ -12,11 +12,11 @@
   4. ## Convention des commit : 
      structure du commit : 
     
-    <type>[étendu optionnel]:< description>
-    <!--------ligne d'espace blanche------------>
-    [corps optionnel]
-    <!--------ligne d'espace blanche------->
-    [pieds optionnel] 
+  <type>[étendu optionnel]:< description>
+  <!--------ligne d'espace blanche------------>
+  [corps optionnel]
+  <!--------ligne d'espace blanche------->
+  [pieds optionnel] 
 
 
  1. fix : un type _fix_ répare les bug de code
