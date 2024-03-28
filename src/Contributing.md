@@ -1,5 +1,5 @@
   <p align="center">
-  <img src="../res/Img/Contributions.png" alt="image" width="300" height="auto">
+  <img src="../res/Img/Contribution.jpeg" alt="image" width="300" height="auto">
 <h1 align="center">LazygitProject</h1>
 
 ## :pencil2: Contribution
