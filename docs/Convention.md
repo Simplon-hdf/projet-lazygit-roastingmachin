@@ -8,6 +8,7 @@
   2. ## Licence :
 
 
+
   4. ## Convention des commit : 
      structure du commit : 
     
@@ -41,4 +42,5 @@
   - ### Commit Description : 
     * Utiliser le **présent **. Utiliser "Add fonctionnalité xy" or "Add tests pour"
     * Cela ne doit pas dépasser plus de **100 characters**.
+
     
