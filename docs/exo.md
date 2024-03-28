@@ -14,7 +14,7 @@
 vous devriez avoir ceci dans le terminal
 ![image](../res/Img/exo/menu-principal.png)
 
-- [ ]ajouter le ficheir que vous vener de créer dans la staging
+- [ ]ajouter le fichier que vous vener de créer dans la staging
    - le selectioner on peut naviger avec les fléche ou en faisant des click 
    - utiliser le racouçie `espace` pour l'ajouter 
 - [ ]faire un commit avec comme message `doks: creation d'un fichier`(oui la faute est voulut)
