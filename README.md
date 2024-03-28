@@ -9,7 +9,7 @@ Bienvenue sur LazygitProject! Il s’agit d’un projet fantastique visant à fo
 - [Fonctionnalités](#✨-fonctionnalités)
 - [Installation](./src/Install.md)
 - [Cheat sheet]()
-- [Convention de nommage]()
+- [Convention de nommage](./doc/Convention.md)
 - [Exercice](./doc/exo.md)
 - [Contribution](#pencil2-contribution)
 
