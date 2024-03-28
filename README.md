@@ -7,7 +7,6 @@ Bienvenue sur LazygitProject! Il s’agit d’un projet fantastique visant à fo
 
 </center>
 
-Bienvenue sur LazygitProject! Il s’agit d’un projet fantastique visant à fournir une solution complète pour notre promo `dev-inté-p2-2024`
 
 
 
@@ -16,15 +15,10 @@ Bienvenue sur LazygitProject! Il s’agit d’un projet fantastique visant à fo
 - [Fonctionnalités](#✨-fonctionnalités)
 - [Installation](./src/Install.md)
 - [Cheat sheet]()
-<<<<<<< HEAD
 - [Convention de nommage]()
-
 - [Exercice]()
 - [Contribution](#contribution)
-
-=======
 - [Convention de nommage](./doc/Convention.md)
->>>>>>> 47c43137623512aa2301308f3232570957d596bb
 - [Exercice](./doc/exo.md)
 - [Contribution](#pencil2-contribution)
 
