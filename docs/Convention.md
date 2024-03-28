@@ -8,7 +8,7 @@
       - Pas d'espace dans le nom du fichier (utilisation du "**-**" --> kebab-case | ou du "**_**"  --> snake-case pour les espaces)
       - Pas de caractère spécial
       - Les dates sous formats **AAAA-MM-JJ** (année-mois-jour)
-      - Le premier éléments suivant la date sera l'élément le plus explicite
+      - Le premier élément suivant la date sera l'élément le plus explicite
 
 
   2. ## Convention des commit : 
