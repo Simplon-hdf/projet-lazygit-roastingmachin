@@ -5,29 +5,26 @@
 # Convention de nommage
   
   1. ## Nommage des fichiers :
-  - Pas d'espace dans le nom du fichier (utilisation du "**-**" --> kebab-case | ou du "**_**"  --> snake-case pour les espaces)
-  - Pas de caractère spécial
-  - Les dates sous formats **AAAA-MM-JJ** (année-mois-jour)
-  - Le premier éléments suivant la date sera l'élément le plus explicite
-  2. ## Licence :
+    - Pas d'espace dans le nom du fichier (utilisation du "**-**" --> kebab-case | ou du "**_**"  --> snake-case pour les espaces)
+    - Pas de caractère spécial
+    - Les dates sous formats **AAAA-MM-JJ** (année-mois-jour)
+    - Le premier éléments suivant la date sera l'élément le plus explicite
 
 
-
-  4. ## Convention des commit : 
+  2. ## Convention des commit : 
      structure du commit : 
     
     <type>[étendu optionnel]:< description>
-    [corps optionnel]
-    [pieds optionnel] 
+    [corp optionnel]
+    [pied-de-page optionnel] 
 
+  1. fix : un type _fix_ répare les bug de code
 
- 1. fix : un type _fix_ répare les bug de code
+  2. feat : un type _feat_ ajoute une nouvelle fonctionnalité
 
- 2. feat : un type _feat_ ajoute une nouvelle fonctionnalité
+  3. BREAKING CHANGE : un commit avec le pied _BREAKING CHANGE_ : _,_ ou un _!_ après le type, induit une rupture de compatibilité avec l'API (application programming interface ou interface de programmation d'application)
 
- 3. BREAKING CHANGE : un commit avec le pied _BREAKING CHANGE_ : _,_ ou un _!_ après le type, induit une rupture de compatibilité avec l'API (application programming interface ou interface de programmation d'application)
-
- 4. Autre commit utilisant la convention Angular :  
+  4. Autre commit utilisant la convention Angular :  
 
  |type|description|
  |----|-----------|
@@ -40,11 +37,12 @@
  |test:| ajoute ou midifie des test|
  |chore|modification de fichier sans affecter le code|
 
- - ### étendu optionnel :
+  - ### étendu optionnel :
     * pointe le fichier spécifique.
 
   - ### Commit Description : 
     * Utiliser le **présent **. Utiliser "Add fonctionnalité xy" or "Add tests pour"
     * Cela ne doit pas dépasser plus de **100 characters**.
 
-    
+  - ###  Pied-de-page optionnel
+    * Contient les infos pour le type _Breaking Change_
