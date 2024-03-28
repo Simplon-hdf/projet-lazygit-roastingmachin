@@ -1,11 +1,11 @@
 # Convention de nommage
   
-  1. ## nommage des dossiers :
+  1. ## Nommage des dossiers :
   - pas d'espace dans le nom du fichier (utilisation du "**-**" --> kebab case)
   - pas de caractère spécial
   - pas de majuscule (certains language sont sensible à la casse)
 
-  2. ## licence :
+  2. ## Licence :
 
   3. ## Convention de nommage des images :
 
@@ -40,6 +40,6 @@
     * pointe le fichier spécifique.
 
   - ### Commit Description : 
-    * Utiliser le **présent **. Utiliser "add fonctionnalité xy" or "Add tests pour"
+    * Utiliser le **présent **. Utiliser "Add fonctionnalité xy" or "Add tests pour"
     * Cela ne doit pas dépasser plus de **100 characters**.
     
