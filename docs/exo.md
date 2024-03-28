@@ -1,13 +1,17 @@
 # <p align='center'>Utilisation de LazyGit 101</p>
 
-<p align='center'>Pour faire l'exercice, vous aurez besoin d'avoir installé LazyGit. Voici un lien pour l'installer :</p>  
+<p align='center'>
+
+Pour faire l'exercice, vous aurez besoin d'avoir installé LazyGit. Voici un lien pour [l'installer](../src/Install.md) 
+
+</p>  
 
 - [ ] Les 4 étapes de création d'un repo
    - [ ] Créer le repo GitHub
    - [ ] Cloner le repo GitHub en local
-   - [ ] Faire un `git apdate -v`
+   - [ ] Faire un `git remote -v`
    - [ ] Créer un fichier `toto`
-- [ ]ecrire sur la ligne 1 du fichier `toto`
+- [ ] écrire sur la ligne 1 du fichier `toto`
 - [ ] Lancer LazyGit avec la commande `lazygit`. Vous devriez avoir ceci dans le terminal :
 ![image](../res/Img/exo/menu-principal.png)
 - [ ] Ajouter le fichier que vous venez de créer dans la staging
@@ -25,9 +29,9 @@
    - [ ] Sélectionner le commit dans l'onglet et utiliser le raccourci `r`
 - [ ] creation d'une branch du nom de "testing"
    - `n`dans l'onglet 3
-- vous etes a present dans la branch testing [ ] creér un fichier peut un porte le nom 
+- vous êtes à présent dans la branch testing [ ] creér un fichier peu importe le nom
 - modifier la ligne 1 du fichier toto
-- [ ]nous allons maintenant merge les 2 branch
+- [ ]nous allons maintenant merge les 2 branches
    - dans l'onglet 3 `M` sur `testing` en ayant checkout la main avec `espace` 
 -pour gérer les conflits utilisés codevs ou pour ceux qui ont installer _Vim_ vous pouvez utiliser le raccourci `e` dans __lazygit__
 
