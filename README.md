@@ -8,7 +8,7 @@ Bienvenue sur LazygitProject! Il s’agit d’un projet fantastique visant à fo
 
 - [Fonctionnalités](#✨-fonctionnalités)
 - [Installation](./src/Install.md)
-- [Qu'est-ce que TUI ?]()
+- [Qu'est-ce que TUI ?](./src/TerminalTUI.md)
 - [Cheat sheet](./src/cheatsheet.md)
 - [Convention de nommage](./docs/Convention.md)
 - [Exercice](./docs/exo.md)
