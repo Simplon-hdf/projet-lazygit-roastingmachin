@@ -1,13 +1,12 @@
 # Convention de nommage
   
-  1. ## Nommage des dossiers :
-  - pas d'espace dans le nom du fichier (utilisation du "**-**" --> kebab case)
-  - pas de caractère spécial
-  - pas de majuscule (certains language sont sensible à la casse)
-
+  1. ## Nommage des fichiers :
+  - Pas d'espace dans le nom du fichier (utilisation du "**-**" --> kebab-case | ou du "**_**"  --> snake-case pour les espaces)
+  - Pas de caractère spécial
+  - Les dates sous formats **AAAA-MM-JJ** (année-mois-jour)
+  - Le premier éléments suivant la date sera l'élément le plus explicite
   2. ## Licence :
 
-  3. ## Convention de nommage des images :
 
   4. ## Convention des commit : 
      structure du commit : 
