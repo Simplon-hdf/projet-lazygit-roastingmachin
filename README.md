@@ -25,10 +25,22 @@ Bienvenue sur LazygitProject! Il s’agit d’un projet fantastique visant à fo
   - [Fedora and RHEL](#fedora-and-rhel)
   - [Ubuntu](#ubuntu)
 - [Qu'est-ce que TUI ?](#terminal-tui-computer)
-- [Cheat sheet](./src/cheatsheet.md)
-- [Convention de nommage](./docs/Convention.md)
+- [Cheat sheet](#cheat-sheet-page_with_curl)
+  - [Opérations de base](#opérations-de-base)
+    - [Stage / Unstage](#ancre10)
+    - [Commit](#ancre11) 
+    - [Pull / Push](#ancre12)
+    - [Navigation](#ancre13)  
+    - [Branches](#ancre14) 
+  - [Autres fonctionnalités](#autres-fonctionnalités)
+    - [Cherry-pick](#ancre15)
+    - [Rebase interactif](#ancre16)
+    - [Commande personnalisé](#ancre17)
+    
+
+
+- [Convention de nommage](#convention-de-nommage)
 - [Exercice](./docs/exo.md)
-- [Contribution](./src/Contributing.md)
 
 ##  Fonctionnalités
 
@@ -136,9 +148,109 @@ De nombreuses bibliothèques logicielles permettent le développement de telles 
 
 Notre fiche [ici](./src/TerminalTUI.md).
 
-## Cheat Sheet
+## Cheat Sheet :page_with_curl:
+
+  <p align="center">
+  <img src="./res/Img/Image_cheatsheet.jpeg" alt="image" width="300" height="auto">
+
+Voici une liste de commandes et d'opérations courantes pour utiliser LazyGit :
+
+### - Commandes principales :
+
+1. **`Space` ou `Enter`** : Sélectionner un fichier pour l'ajouter à la zone de staging ou ouvrir le fichier pour affichage.
+
+2. **`Tab`** : Basculer entre les différentes sections de l'interface (fichiers, staging, commits, etc.).
+
+3. **`c`** : faire un commit.
+
+4. **`q`** : Quitter LazyGit.
+
+### - Opérations de base :
+
+1. **Stage / Unstage :**<a id="ancre10"></a>
+   - Appuyez sur `space` pour ajouter ou retirer un fichier de la zone de staging.
+   - Utilisez `space` sur un fichier stagé pour annuler les modifications d'un fichier déjà stagé.
+
+2. **Commit :**<a id="ancre11"></a>
+   - Appuyez sur `c` pour ouvrir la fenêtre de commit.
+   - Saisissez un message de commit, puis appuyez sur `entrée` pour valider le commit.
+
+3. **Pull / Push :**<a id="ancre12"></a>
+   - Appuyez sur `P` pour push.
+   - Appuyez sur `p` pour pull.
+
+4. **Navigation :**<a id="ancre13"></a>
+   - Utilisez les flèches haut et bas pour naviguer dans la liste des fichiers et les commits.
+   - Utilisez les touches `Page Up` et `Page Down` pour naviguer plus rapidement.
+
+5. **Branches :**<a id="ancre14"></a>
+   - se rendre dans l'onglet `3`.
+   - Appuyez sur `n` pour créer une nouvel branch.
+   -pour jonglet entre les branch utiliser `espace`
+   -pour merge des branch :`M`.
+
+### - Autres fonctionnalités :
+
+1. **Cherry-Pick :**<a id="ancre15"></a>
+   - se rendre and la fenetre `4`
+   - Appuyez sur `shift-c` copier le commit selectionée.
+   - Appuyez sur `shift-v` pour coller le commit.
+
+2. **Rebase interactif :**<a id="ancre16"></a>
+   - Appuyez sur `i` pour ouvrir le menu de rebase interactif.
+
+3. **Commande personalisée :**<a id="ancre17"></a>
+   - Appuyez sur `:` pour lancer une commande personalisée.
+
+
+Utilisez ces raccourcis et commandes pour accélérer votre flux de travail Git avec LazyGit.
 
 ## Convention de nommage
 
+<p align="center">
+    <img src="./res/Img/Name_Convention.png" width="300" height="auto">
+</p>
+  
+  1. ### Nommage des fichiers :
+  - Pas d'espace dans le nom du fichier (utilisation du "**-**" --> kebab-case | ou du "**_**"  --> snake-case pour les espaces)
+  - Pas de caractère spécial
+  - Les dates sous formats **AAAA-MM-JJ** (année-mois-jour)
+  - Le premier élément suivant la date sera l'élément le plus explicite
 
+
+  2. ### Convention des commit : 
+  - structure du commit : 
+    
+    <type>[étendu optionnel]:< description>
+    [corp optionnel]
+    [pied-de-page optionnel] 
+
+  - fix : un type _fix_ répare les bug de code
+
+  - feat : un type _feat_ ajoute une nouvelle fonctionnalité
+
+  - BREAKING CHANGE : un commit avec le pied _BREAKING CHANGE_ : _,_ ou un _!_ après le type, induit une rupture de compatibilité avec l'API (application programming interface ou interface de programmation d'application)
+
+  - Autre commit utilisant la convention Angular :  
+
+ |type|description|
+ |----|-----------|
+ |build:| changement qui affecte le build system ou des dépendances externes|
+ |ci:| changement de notre fichier et scripts de configuration CI|
+ |docs:|changement uniquement dans la documentation|
+ |perf:|changement du code afin d'améliorer les performances|
+ |refactor:|un changement de code qui n'ajoute ni des fonctionnalités ni des corrections de bugs |
+ |style:| changement qui n'affecte pas le code|
+ |test:| ajoute ou midifie des test|
+ |chore|modification de fichier sans affecter le code|
+
+  3. ### étendu optionnel :
+    - pointe le fichier spécifique.
+
+  4. ### Commit Description : 
+    - Utiliser le **présent**. Utiliser "Add fonctionnalité xy" or "Add tests pour"
+    - Cela ne doit pas dépasser plus de **100 characters**.
+
+  5. ###  Pied-de-page optionnel
+    - Contient les infos pour le type _Breaking Change_
 
