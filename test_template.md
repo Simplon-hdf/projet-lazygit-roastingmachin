@@ -5,38 +5,10 @@
 ![curl -o badge.svg](https://img.shields.io/badge/License-Apache_2.0-blue)
 
 <h1 align="center">Lazy Git</h1>
-<style>
-    /* Votre CSS ici */
-    body {
-        font-family: times, sans-serif;
-        background-color: black;
-    }
-    h1 {
-        color: #40E0D0;
-    }
-    div {
-        color: white;
-    }
-    /*Autres styles... */    
-    </style>
 
 <div align="center">
 
 <h2 align="center">Lazy Git User Guide</h2>
-<style>
-    /* Votre CSS ici */
-    body {
-        font-family: times, sans-serif;
-        background-color: black;
-    }
-    h2 {
-        color: #40E0D0;
-    }
-    div {
-        color: white;
-    }
-    /*Autres styles... */    
-    </style>
 
 <p>This Lazygit repository can certainly make working with Git easier. Here are some ways Lazygit can make using Git easier and more efficient.</p>
 
