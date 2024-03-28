@@ -12,25 +12,23 @@ Voici une liste de commandes et d'opérations courantes pour utiliser LazyGit :
 
 2. **`Tab`** : Basculer entre les différentes sections de l'interface (fichiers, staging, commits, etc.).
 
-3. **`Ctrl + S`** : Enregistrer les changements (équivalent à `git commit`).
+3. **`c`** : faire un commit.
 
-4. **`Ctrl + R`** : Rafraîchir l'interface.
-
-5. **`q`** : Quitter LazyGit.
+4. **`q`** : Quitter LazyGit.
 
 ### - Opérations de base :
 
 1. **Stage / Unstage :**
-   - Appuyez sur `s` pour ajouter ou retirer un fichier de la zone de staging.
-   - Utilisez `u` pour annuler les modifications d'un fichier déjà stagé.
+   - Appuyez sur `space` pour ajouter ou retirer un fichier de la zone de staging.
+   - Utilisez `space` sur un fichier stagé pour annuler les modifications d'un fichier déjà stagé.
 
 2. **Commit :**
    - Appuyez sur `c` pour ouvrir la fenêtre de commit.
-   - Saisissez un message de commit, puis appuyez sur `Ctrl + S` pour valider le commit.
+   - Saisissez un message de commit, puis appuyez sur `entrée` pour valider le commit.
 
 3. **Pull / Push :**
-   - Appuyez sur `P` pour ouvrir le menu des opérations distantes.
-   - Sélectionnez `Pull` ou `Push` pour effectuer ces opérations.
+   - Appuyez sur `P` pour push
+   - Appuyez sur `p` pour pull
 
 4. **Navigation :**
    - Utilisez les flèches haut et bas pour naviguer dans la liste des fichiers et les commits.
