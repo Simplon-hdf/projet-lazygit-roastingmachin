@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="../res/Img/Name_Convention.png" width="300" height="auto">
+</p>
+
 # Convention de nommage
   
   1. ## Nommage des fichiers :
