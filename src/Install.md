@@ -2,7 +2,7 @@
   <img src="../img/logo-install.png" alt="image" width="300" height="auto">
 <h1 align="center">LazygitProject</h1>
 
-# :bookmark_tabs:Installation
+# Installation :bookmark_tabs:
 
 1 - Ouvrez le terminal.
 2 - Téléchargez le dernier paquet binaire de lazygit avec la commande suivante (remplacez `VER` par la version actuelle) :
