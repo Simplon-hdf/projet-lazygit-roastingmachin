@@ -37,6 +37,7 @@ Voici une liste de commandes et d'opérations courantes pour utiliser LazyGit :
 5. **Branches :**
    - se rendre dans l'onglet `3`.
    - Appuyez sur `n` pour créer une nouvel branch.
+   -pour jonglet entre les branch utiliser `espace`
    -pour merge des branch :`M`.
 
 ### - Autres fonctionnalités :
