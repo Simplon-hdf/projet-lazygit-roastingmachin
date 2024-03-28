@@ -10,7 +10,6 @@
 - [ ]ecrire sur la ligne 1 du fichier `toto`
 - [ ] Lancer LazyGit avec la commande `lazygit`. Vous devriez avoir ceci dans le terminal :
 ![image](../res/Img/exo/menu-principal.png)
-
 - [ ] Ajouter le fichier que vous venez de créer dans la staging
    - Le sélectionner : on peut naviguer avec les flèches ou en faisant des clics 
    - Utiliser le raccourci `espace` pour l'ajouter 
@@ -31,3 +30,4 @@
 - [ ]nous allons maintenant merge les 2 branch
    - dans l'onglet 3 `M` sur `testing` en ayant checkout la main avec `espace` 
 -pour gérer les conflits utilisés codevs ou pour ceux qui ont installer _Vim_ vous pouvez utiliser le raccourci `e` dans __lazygit__
+
