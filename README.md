@@ -4,24 +4,14 @@
 
 Bienvenue sur LazygitProject! Il s’agit d’un projet fantastique visant à fournir une solution complète pour notre promo `dev-inté-p2-2024`
 
-
-</center>
-
-
-
-
 ## Table des matières
 
 - [Fonctionnalités](#✨-fonctionnalités)
 - [Installation](./src/Install.md)
 - [Cheat sheet]()
 - [Convention de nommage]()
-- [Exercice]()
-- [Contribution](#contribution)
-- [Convention de nommage](./doc/Convention.md)
 - [Exercice](./doc/exo.md)
 - [Contribution](#pencil2-contribution)
-
 
 ## ✨ Fonctionnalités
 
