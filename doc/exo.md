@@ -7,7 +7,9 @@
    - [ ]clone le repo github en local
    - [ ]faire un `git update -v`
    - [ ]créer un fichier
-
+- [ ]faire un remote upstream pour
+- [ ]faire un fork de votre repo 
+- [ ]
 - [ ]lancer lazy git avec la commande `lazygit`  
 vous devriez avoir ceci dans le terminal
 ![image](../res/Img/exo/menu-principal.png)
@@ -20,5 +22,4 @@ vous devriez avoir ceci dans le terminal
 - [ ]faire un pull/push (les push et pull sont diriger de base vers origine)
    -le raccourcie de pull est `p`
    -le raccourcie de push est `P`
-
 <p align='center'>avec c'est premier tache vous avec couvert les utilisation basic les plus utilisé</p>
