@@ -35,8 +35,9 @@ Voici une liste de commandes et d'opérations courantes pour utiliser LazyGit :
    - Utilisez les touches `Page Up` et `Page Down` pour naviguer plus rapidement.
 
 5. **Branches :**
-   - Appuyez sur `b` pour ouvrir le menu des branches.
-   - Créez, basculez entre les branches et fusionnez-les à partir de ce menu.
+   - se rendre dans l'onglet `3`
+   - Appuyez sur `n` pour créer une nouvel branch.
+   -pour merge des branch :`M`
 
 ### - Recherche et filtrage :
 
