@@ -27,7 +27,8 @@
     - `-R` Recursively change permissions of directories and their contents.
 - `chown [user:group] [file_name]` Changes the owner and/or group of a  file or directory.
     - `-R` Recursively change ownership of directories and their contents.
-
+- `chgrp group file/directory` This command is used to change the group ownership of a file or directory.  
+    - `-R` Recursively change group ownership of directories and their contents.
 ### Processes and System
 
 - `ps` Displays active processes.
