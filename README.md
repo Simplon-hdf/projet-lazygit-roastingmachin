@@ -259,36 +259,14 @@ La page [ici](./docs/Convention.md)
 
 ## Exercice :open_file_folder:
 
+  <p align="center">
+  <img src="./res/Img/Training_exo.jpeg" alt="image" width="300" height="auto">
+
 Toujours un peu flou pour vous ? rien de telle que de s'exercer pour mieux comprendre. Voici un petit exercice qui vous permettra de vous entrainer et ainsi de mieux comprendre [Lazygit](./docs/exo.md).
 
 ## :pencil2: Contribution
 
-  <p align="center">
-  <img src="../projet-lazygit-roastingmachin/res/Img/Contribution.jpeg" alt="image" width="300" height="auto">
-
-
-Nous accueillons les contributions de la communauté ! Si vous souhaitez contribuer au projet LazygitProject, veuillez suivre ces directives :
-
-**- Fork the Repository:** Forker le dépôt.
-
-**- Make Changes:** Effectuer les modifications souhaitées dans votre fork.
-
-**- Test Your Changes:** Tester vos modifications pour vous assurer qu'elles fonctionnent correctement.
-
-**- Commit Your Changes:** Commiter vos modifications de manière logique et atomique.
-
-**- Push Your Changes:** Pousser vos modifications vers votre fork.
-
-**- Submit a Pull Request:** Soumettre une pull request vers le dépôt principal de LazygitProject.
-
-**- Follow Contribution Guidelines:** Suivre les directives de contribution pour garantir que votre pull request soit examinée rapidement et de manière efficace.
-
-**- Participate in Code Reviews:** Participer aux révisions de code et répondre aux commentaires des relecteurs.
-
-**- Stay Engaged:** Rester impliqué dans la discussion autour de votre contribution et être prêt à apporter des modifications en fonction des retours.
-
-
-Veuillez vous assurer que votre pull request respecte le Code de Conduite des Contributeurs.
+Nous aimons votre participation! Veuillez consulter le [guide de contribution](./src/Contributing.md).
 
 ## FAQ
 
