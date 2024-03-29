@@ -24,3 +24,4 @@ sudo mv lazygit /usr/local/bin/
 lazygit -v
 ```
 Cela devrait installer `lazygit` sans avoir besoin d’ajouter un PPA. Assurez-vous de remplacer `VER` par la dernière version disponible sur la page des releases de lazygit.
+
