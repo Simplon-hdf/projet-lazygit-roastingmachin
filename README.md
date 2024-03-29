@@ -254,7 +254,7 @@ La page [ici](./docs/Convention.md)
 ## Exercice :open_file_folder:
 
   <p align="center">
-  <img src="./res/Img/Training_exo.jpeg" alt="image" width="300" height="auto">
+  <img src="./res/Img/logo exercice.jpeg" alt="image" width="300" height="auto">
 
 Toujours un peu flou pour vous ? rien de telle que de s'exercer pour mieux comprendre. Voici un petit exercice qui vous permettra de vous entrainer et ainsi de mieux comprendre [Lazygit](./docs/exo.md).
 
