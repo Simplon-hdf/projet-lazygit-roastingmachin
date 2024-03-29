@@ -31,7 +31,7 @@ Pour faire l'exercice, vous aurez besoin d'avoir installé LazyGit. Voici un lie
    - `n`dans l'onglet 3
 - vous êtes à présent dans la branch testing [ ] creér un fichier peu importe le nom
 - [ ] modifier la ligne 1 du fichier toto
-- [ ]nous allons maintenant merge les 2 branches
+- [ ] nous allons maintenant merge les 2 branches
    - dans l'onglet 3 `M` sur `testing` en ayant checkout la main avec `espace` 
 - pour gérer les conflits utilisés vscode ou pour ceux qui ont installer _Vim_ vous pouvez utiliser le raccourci `e` dans __lazygit__
 
