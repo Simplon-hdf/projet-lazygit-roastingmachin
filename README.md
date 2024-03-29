@@ -24,7 +24,7 @@ Bienvenue sur LazygitProject! Il s’agit d’un projet fantastique visant à fo
   - [Arch Linux](#arch-linux)
   - [Fedora and RHEL](#fedora-and-rhel)
   - [Ubuntu](#ubuntu)
-- [Qu'est-ce que TUI ?](#terminal-tui-computer)
+- [Qu'est-ce que TUI ?](#tui-computer)
 - [Cheat sheet](#cheat-sheet-page_with_curl)
   - [Opérations de base](#opérations-de-base)
     - [Stage / Unstage](#ancre10)
