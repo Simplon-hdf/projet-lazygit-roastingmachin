@@ -268,3 +268,6 @@ Que représentent les couleurs commit ?
 - Vert : le commit est inclus dans la branche master
 - Jaune : le commit n’est pas inclus dans la branche master
 - Rouge : le commit n’a pas été poussé vers la branche amont
+
+-------------------------
+ [retour à la table des matières](#table-des-matières)
