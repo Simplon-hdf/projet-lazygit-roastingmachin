@@ -203,7 +203,7 @@ Accès a la page [ici](./src/cheatsheet.md).
 ## Convention de nommage
 
 <p align="center">
-    <img src="./res/Img/1.png" width="300" height="auto">
+    <img src="./res/Img/Convention de nommage.png" width="300" height="auto">
 </p>
   
   1. ### Nommage des fichiers :
