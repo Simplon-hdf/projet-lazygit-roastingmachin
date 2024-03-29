@@ -11,7 +11,7 @@ Pour faire l'exercice, vous aurez besoin d'avoir installé LazyGit. Voici un lie
    - [ ] Cloner le repo GitHub en local
    - [ ] Faire un `git remote -v`
    - [ ] Créer un fichier `toto`
-- [ ] écrire sur la ligne 1 du fichier `toto`
+- [ ] Écrire sur la ligne 1 du fichier `toto`
 - [ ] Lancer LazyGit avec la commande `lazygit`. Vous devriez avoir ceci dans le terminal :
 ![image](../res/Img/exo/menu-principal.png)
 - [ ] Ajouter le fichier que vous venez de créer dans la staging
@@ -27,13 +27,13 @@ Pour faire l'exercice, vous aurez besoin d'avoir installé LazyGit. Voici un lie
 
 - On va voir maintenant comment renommer un commit
    - [ ] Sélectionner le commit dans l'onglet et utiliser le raccourci `r`
-- [ ] creation d'une branch du nom de "testing"
+- [ ] Création d'une branche du nom de "testing"
    - `n`dans l'onglet 3
-- vous êtes à présent dans la branch testing [ ] creér un fichier peu importe le nom
-- [ ] modifier la ligne 1 du fichier toto
-- [ ] nous allons maintenant merge les 2 branches
+- Vous êtes à présent dans la branche testing [ ] , creér un fichier peu importe le nom
+- [ ] Modifier la ligne 1 du fichier toto
+- [ ] Nous allons maintenant merge les 2 branches
    - dans l'onglet 3 `M` sur `testing` en ayant checkout la main avec `espace` 
-- pour gérer les conflits utilisés vscode ou pour ceux qui ont installer _Vim_ vous pouvez utiliser le raccourci `e` dans __lazygit__
+- Pour gérer les conflits utilisés vscode ou pour ceux qui ont installer _Vim_ vous pouvez utiliser le raccourci `e` dans __lazygit__
 
 
 - [ ] Pour ceux qui veulent personnaliser lazygit, nous vous proposons ce [fichier](../res/exemple-de-config.yml) comme base à remplacer dans le chemin ci-dessous : `~/.config/lazygit/config.yml`. Si vous souhaitez ajouter des commandes supplémentaires, voici le [lien](https://github.com/jesseduffield/lazygit/wiki/Custom-Commands-Compendium#pushing-to-a-specific-remote-repository).
