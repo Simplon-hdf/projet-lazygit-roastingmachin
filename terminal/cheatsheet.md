@@ -27,12 +27,24 @@
     - `-R` Recursively change permissions of directories and their contents.
 - `chown [user:group] [file_name]` Changes the owner and/or group of a  file or directory.
     - `-R` Recursively change ownership of directories and their contents.
-
+- `chgrp group file/directory` This command is used to change the group ownership of a file or directory.  
+    - `-R` Recursively change group ownership of directories and their contents.
 ### Processes and System
 
 - `ps` Displays active processes.
+    - `-e` Display information about all processes.
+    - `-f` Display a full listing.
+    - `-u user` Display processes owned by a specific user.
+    - `aux` Display a detailed listing of all processes.
 - `kill [PID]` Kills a process using its Process ID (PID).
 - `top` Displays running processes and their resources.
+    - `q` Quit top.
+    - `k` Kill a process.
+    - `u` Specify user.
+    - `H` Toggle threads display.
+    - `P` Sort by CPU usage.
+    - `M` Sort by memory usage.
+    - `R` Reverse the sorting order.
 
 ### Archives and Compression
 
