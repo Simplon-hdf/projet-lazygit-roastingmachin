@@ -30,14 +30,14 @@ Pour faire l'exercice, vous aurez besoin d'avoir installé LazyGit. Voici un lie
 - [ ] creation d'une branch du nom de "testing"
    - `n`dans l'onglet 3
 - vous êtes à présent dans la branch testing [ ] creér un fichier peu importe le nom
-- modifier la ligne 1 du fichier toto
+- [ ] modifier la ligne 1 du fichier toto
 - [ ]nous allons maintenant merge les 2 branches
    - dans l'onglet 3 `M` sur `testing` en ayant checkout la main avec `espace` 
 - pour gérer les conflits utilisés vscode ou pour ceux qui ont installer _Vim_ vous pouvez utiliser le raccourci `e` dans __lazygit__
 
-- [ ]pour ceux qui veulent customisé lazygit on vous propose ce [fichier](../res/exemple-de-config.yml) comme base et si vous voulais ajouter des commande en plus voici le [lien](https://github.com/jesseduffield/lazygit/wiki/Custom-Commands-Compendium#pushing-to-a-specific-remote-repository) pour sa:  
-   - les différente commande:
-   - `f1` pour faire un pull en choisisant la branche et le remote
-   - `f2` pour choisire le remote pour push
-   - `ctrl-v`pour faire un commit conventionelle 
-   
+
+- [ ] Pour ceux qui veulent personnaliser lazygit, nous vous proposons ce [fichier](../res/exemple-de-config.yml) comme base à remplacer dans le chemin ci-dessous : `~/.config/lazygit/config.yml`. Si vous souhaitez ajouter des commandes supplémentaires, voici le [lien](https://github.com/jesseduffield/lazygit/wiki/Custom-Commands-Compendium#pushing-to-a-specific-remote-repository).
+- Les différentes commandes sont :
+   - `f1` pour effectuer un pull en choisissant la branche et le remote.
+   - `f2` pour choisir le remote pour le push.
+   - `ctrl-v` pour effectuer un commit conventionnel.
