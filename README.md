@@ -24,7 +24,7 @@ Bienvenue sur LazygitProject! Il s’agit d’un projet fantastique visant à fo
   - [Arch Linux](#arch-linux)
   - [Fedora and RHEL](#fedora-and-rhel)
   - [Ubuntu](#ubuntu)
-- [Qu'est-ce que TUI ?](#terminal-tui-computer)
+- [Qu'est-ce que TUI ?](#tui-computer)
 - [Cheat sheet](#cheat-sheet-page_with_curl)
   - [Opérations de base](#opérations-de-base)
     - [Stage / Unstage](#ancre10)
@@ -35,12 +35,11 @@ Bienvenue sur LazygitProject! Il s’agit d’un projet fantastique visant à fo
   - [Autres fonctionnalités](#autres-fonctionnalités)
     - [Cherry-pick](#ancre15)
     - [Rebase interactif](#ancre16)
-    - [Commande personnalisé](#ancre17)
-    
-
-
+    - [Commande personnalisé](#ancre17) 
 - [Convention de nommage](#convention-de-nommage)
-- [Exercice](./docs/exo.md)
+- [Exercice](#exercice-open_file_folder)
+- [Contributing](#pencil2-contribution)
+- [FAQ](#faq)
 
 ##  Fonctionnalités
 
@@ -134,19 +133,14 @@ Vérifiez l'installation correcte de LazyGit en exécutant simplement la command
 lazygit --version
 ```
 Une autre méthode existe [ici](./src/Install.md).
+Pour voir les dernières versions, allez sur [cette page](https://repology.org/project/lazygit/versions).
 
-## Terminal TUI :computer:
+## TUI :computer:
 
   <p align="center">
   <img src="./res/Img/TerminalTUI.jpeg" alt="image" width="300" height="auto">
 
-Un environnement en mode texte (`TUI`, de l'anglais « Text User Interface », « Textual User Interface » ou encore «Terminal User Interface ») est un rétronyme introduit dans le jargon informatique après l'invention des environnements graphiques pour se distinguer des interfaces en ligne de commande. Ce type d'interface utilisateur occupe la totalité de l'écran comme les interfaces graphiques, et n'est donc pas limité au traitement ligne par ligne comme les `CLI`.
-
-Ce type d'environnement s'avère très utile pour le développement d'applications sans besoins graphiques.
-
-De nombreuses bibliothèques logicielles permettent le développement de telles interfaces utilisateur, sur différentes plates-formes.
-
-Notre fiche [ici](./src/TerminalTUI.md).
+Pour en savoir plus sur le TUI notre fiche [ici](./src/TerminalTUI.md).
 
 ## Cheat Sheet :page_with_curl:
 
@@ -202,8 +196,9 @@ Voici une liste de commandes et d'opérations courantes pour utiliser LazyGit :
 3. **Commande personalisée :**<a id="ancre17"></a>
    - Appuyez sur `:` pour lancer une commande personalisée.
 
-
 Utilisez ces raccourcis et commandes pour accélérer votre flux de travail Git avec LazyGit.
+
+Accès a la page [ici](./src/cheatsheet.md).
 
 ## Convention de nommage
 
@@ -254,3 +249,22 @@ Utilisez ces raccourcis et commandes pour accélérer votre flux de travail Git 
   5. ###  Pied-de-page optionnel
     - Contient les infos pour le type _Breaking Change_
 
+La page [ici](./docs/Convention.md)
+
+## Exercice :open_file_folder:
+
+  <p align="center">
+  <img src="./res/Img/logo exercice.jpeg" alt="image" width="300" height="auto">
+
+Toujours un peu flou pour vous ? rien de telle que de s'exercer pour mieux comprendre. Voici un petit exercice qui vous permettra de vous entrainer et ainsi de mieux comprendre [Lazygit](./docs/exo.md).
+
+## :pencil2: Contribution
+
+Nous aimons votre participation! Veuillez consulter le [guide de contribution](./src/Contributing.md).
+
+## FAQ
+
+Que représentent les couleurs commit ?
+- Vert : le commit est inclus dans la branche master
+- Jaune : le commit n’est pas inclus dans la branche master
+- Rouge : le commit n’a pas été poussé vers la branche amont
