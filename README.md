@@ -6,7 +6,7 @@ Bienvenue sur LazygitProject! Il s’agit d’un projet fantastique visant à fo
 
 ## Table des matières
 
-- [Fonctionnalités](#fonctionnalités)
+- [Fonctionnalités](#fonctionnalités-mag_right)
   - [Interface Intuitive](#ancre1)
   - [Gestion des Commits](#ancre2)
   - [Gestion des Branches](#ancre3)
@@ -16,8 +16,8 @@ Bienvenue sur LazygitProject! Il s’agit d’un projet fantastique visant à fo
   - [ Résolution des Conflits de Fusion](#ancre7)
   - [Visualiseur de Journal](#ancre8)
   - [Personnalisation](#ancre9)
-- [Cloner le repositorie](#cloner-le-repositorie)
-- [Installation](./src/Install.md)
+- [Cloner le repositorie](#cloner-le-repositorie-outbox_tray)
+- [Installation](#installation-wrench)
   - [Homebrew](#homebrew)
   - [MacPorts](#macports)
   - [Void Linux](#void-linux)
@@ -36,12 +36,12 @@ Bienvenue sur LazygitProject! Il s’agit d’un projet fantastique visant à fo
     - [Cherry-pick](#ancre15)
     - [Rebase interactif](#ancre16)
     - [Commande personnalisé](#ancre17) 
-- [Convention de nommage](#convention-de-nommage)
+- [Convention de nommage](#convention-de-nommage-bookmark_tabs)
 - [Exercice](#exercice-open_file_folder)
-- [Contributing](#pencil2-contribution)
-- [FAQ](#faq)
+- [Contributing](#contribution-pencil2)
+- [FAQ](#faq-books)
 
-##  Fonctionnalités
+##  Fonctionnalités :mag_right:
 
 
 Lazygit est une interface utilisateur basée sur terminal (TUI) pour Git, conçue pour simplifier et rationaliser les tâches courantes de Git grâce à une interface facile à utiliser. Elle offre une représentation visuelle de l'état du dépôt Git et permet aux utilisateurs d'interagir avec Git sans avoir besoin de se souvenir des options de ligne de commande complexes. Certaines des fonctionnalités remarquables de Lazygit comprennent :
@@ -66,12 +66,12 @@ Lazygit est une interface utilisateur basée sur terminal (TUI) pour Git, conçu
 
 En somme, Lazygit vise à rendre les opérations Git plus accessibles et plus efficaces pour les utilisateurs novices et expérimentés en fournissant une interface visuelle pratique pour les tâches Git courantes.
 
-## Cloner le repositorie:
+## Cloner le repositorie :outbox_tray:
 
 ```
 https://github.com/Simplon-hdf/projet-lazygit-roastingmachin.git
 ```
-## Installation
+## Installation :wrench:
 
 <p align="center">
 <img src="./res/Img/installationlogo.png" alt="image" width="300" height="auto">
@@ -200,7 +200,7 @@ Utilisez ces raccourcis et commandes pour accélérer votre flux de travail Git 
 
 Accès a la page [ici](./src/cheatsheet.md).
 
-## Convention de nommage
+## Convention de nommage :bookmark_tabs:
 
 <p align="center">
     <img src="./res/Img/Convention de nommage.png" width="300" height="auto">
@@ -258,11 +258,11 @@ La page [ici](./docs/Convention.md)
 
 Toujours un peu flou pour vous ? rien de telle que de s'exercer pour mieux comprendre. Voici un petit exercice pour vous entrainer et ainsi de mieux comprendre [Lazygit](./docs/exo.md).
 
-## :pencil2: Contribution
+## Contribution :pencil2: 
 
 Nous aimons votre participation! Veuillez consulter le [guide de contribution](./src/Contributing.md).
 
-## FAQ
+## FAQ :books:
 
 Que représentent les couleurs commit ?
 - Vert : le commit est inclus dans la branche master
