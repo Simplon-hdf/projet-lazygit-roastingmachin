@@ -32,6 +32,10 @@
 ### Processes and System
 
 - `ps` Displays active processes.
+    - `-e` Display information about all processes.
+    - `-f` Display a full listing.
+    - `-u user` Display processes owned by a specific user.
+    - `aux` Display a detailed listing of all processes.
 - `kill [PID]` Kills a process using its Process ID (PID).
 - `top` Displays running processes and their resources.
 
