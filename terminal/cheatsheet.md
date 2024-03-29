@@ -4,7 +4,11 @@
 - ls: Lists files and directories in the current directory.
 - cd [directory_name]: Changes the working directory.
 - pwd: Prints the path of the current directory.
-- cat [file_name]: Displays the contents of a file.
+- cat [file_name]: Display file contents.
+- less [file_name]: View file contents one page at a time.
+- head [file_name]: Display the first few lines of a file.
+- tail [file_name]: Display the last few lines of a file.
+- grep [pattern] [file_name]: Search for a pattern in a file.
 
 ### File Manipulation
 
