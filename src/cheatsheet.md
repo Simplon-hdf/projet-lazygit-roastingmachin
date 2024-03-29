@@ -12,7 +12,7 @@ Voici une liste de commandes et d'opérations courantes pour utiliser LazyGit :
 
 2. **`Tab`** : Basculer entre les différentes sections de l'interface (fichiers, staging, commits, etc.).
 
-3. **`c`** : faire un commit.
+3. **`c`** : Faire un commit.
 
 4. **`q`** : Quitter LazyGit.
 
@@ -20,7 +20,7 @@ Voici une liste de commandes et d'opérations courantes pour utiliser LazyGit :
 
 1. **Stage / Unstage :**
    - Appuyez sur `space` pour ajouter ou retirer un fichier de la zone de staging.
-   - Utilisez `space` sur un fichier stagé pour annuler les modifications d'un fichier déjà stagé.
+   - Utilisez `space` sur un fichier indexé pour annuler les modifications d'un fichier déjà indexé.
 
 2. **Commit :**
    - Appuyez sur `c` pour ouvrir la fenêtre de commit.
@@ -35,16 +35,16 @@ Voici une liste de commandes et d'opérations courantes pour utiliser LazyGit :
    - Utilisez les touches `Page Up` et `Page Down` pour naviguer plus rapidement.
 
 5. **Branches :**
-   - se rendre dans l'onglet `3`.
-   - Appuyez sur `n` pour créer une nouvel branch.
-   -pour jonglet entre les branch utiliser `espace`
-   -pour merge des branch :`M`.
+   - Se rendre dans l'onglet `3`.
+   - Appuyez sur `n` pour créer une nouvelle branche.
+   - Pour jongler entre les branches utiliser `espace`
+   - Pour merge des branches :`M`.
 
 ### - Autres fonctionnalités :
 
 1. **Cherry-Pick :**
-   - se rendre and la fenetre `4`
-   - Appuyez sur `shift-c` copier le commit selectionée.
+   - Se rendre à la fenetre `4`
+   - Appuyez sur `shift-c` copier le commit sélectionner.
    - Appuyez sur `shift-v` pour coller le commit.
 
 2. **Rebase interactif :**
