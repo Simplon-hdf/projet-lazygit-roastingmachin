@@ -35,12 +35,11 @@ Bienvenue sur LazygitProject! Il s’agit d’un projet fantastique visant à fo
   - [Autres fonctionnalités](#autres-fonctionnalités)
     - [Cherry-pick](#ancre15)
     - [Rebase interactif](#ancre16)
-    - [Commande personnalisé](#ancre17)
-    
-
-
+    - [Commande personnalisé](#ancre17) 
 - [Convention de nommage](#convention-de-nommage)
-- [Exercice](./docs/exo.md)
+- [Exercice](#exercice-open_file_folder)
+- [Contributing](#pencil2-contribution)
+- [FAQ](#faq)
 
 ##  Fonctionnalités
 
@@ -134,6 +133,7 @@ Vérifiez l'installation correcte de LazyGit en exécutant simplement la command
 lazygit --version
 ```
 Une autre méthode existe [ici](./src/Install.md).
+Pour voir les dernières versions, allez sur [cette page](https://repology.org/project/lazygit/versions).
 
 ## Terminal TUI :computer:
 
@@ -202,8 +202,9 @@ Voici une liste de commandes et d'opérations courantes pour utiliser LazyGit :
 3. **Commande personalisée :**<a id="ancre17"></a>
    - Appuyez sur `:` pour lancer une commande personalisée.
 
-
 Utilisez ces raccourcis et commandes pour accélérer votre flux de travail Git avec LazyGit.
+
+Accès a la page [ici](./src/cheatsheet.md).
 
 ## Convention de nommage
 
@@ -254,3 +255,44 @@ Utilisez ces raccourcis et commandes pour accélérer votre flux de travail Git 
   5. ###  Pied-de-page optionnel
     - Contient les infos pour le type _Breaking Change_
 
+La page [ici](./docs/Convention.md)
+
+## Exercice :open_file_folder:
+
+Toujours un peu flou pour vous ? rien de telle que de s'exercer pour mieux comprendre. Voici un petit exercice qui vous permettra de vous entrainer et ainsi de mieux comprendre [Lazygit](./docs/exo.md).
+
+## :pencil2: Contribution
+
+  <p align="center">
+  <img src="../projet-lazygit-roastingmachin/res/Img/Contribution.jpeg" alt="image" width="300" height="auto">
+
+
+Nous accueillons les contributions de la communauté ! Si vous souhaitez contribuer au projet LazygitProject, veuillez suivre ces directives :
+
+**- Fork the Repository:** Forker le dépôt.
+
+**- Make Changes:** Effectuer les modifications souhaitées dans votre fork.
+
+**- Test Your Changes:** Tester vos modifications pour vous assurer qu'elles fonctionnent correctement.
+
+**- Commit Your Changes:** Commiter vos modifications de manière logique et atomique.
+
+**- Push Your Changes:** Pousser vos modifications vers votre fork.
+
+**- Submit a Pull Request:** Soumettre une pull request vers le dépôt principal de LazygitProject.
+
+**- Follow Contribution Guidelines:** Suivre les directives de contribution pour garantir que votre pull request soit examinée rapidement et de manière efficace.
+
+**- Participate in Code Reviews:** Participer aux révisions de code et répondre aux commentaires des relecteurs.
+
+**- Stay Engaged:** Rester impliqué dans la discussion autour de votre contribution et être prêt à apporter des modifications en fonction des retours.
+
+
+Veuillez vous assurer que votre pull request respecte le Code de Conduite des Contributeurs.
+
+## FAQ
+
+Que représentent les couleurs commit ?
+- Vert : le commit est inclus dans la branche master
+- Jaune : le commit n’est pas inclus dans la branche master
+- Rouge : le commit n’a pas été poussé vers la branche amont
