@@ -33,5 +33,11 @@ Pour faire l'exercice, vous aurez besoin d'avoir installé LazyGit. Voici un lie
 - modifier la ligne 1 du fichier toto
 - [ ]nous allons maintenant merge les 2 branches
    - dans l'onglet 3 `M` sur `testing` en ayant checkout la main avec `espace` 
--pour gérer les conflits utilisés codevs ou pour ceux qui ont installer _Vim_ vous pouvez utiliser le raccourci `e` dans __lazygit__
+- pour gérer les conflits utilisés vscode ou pour ceux qui ont installer _Vim_ vous pouvez utiliser le raccourci `e` dans __lazygit__
 
+- [ ]pour ceux qui veulent customisé lazygit on vous propose ce [fichier](../res/exemple-de-config.yml) comme base et si vous voulais ajouter des commande en plus voici le [lien](https://github.com/jesseduffield/lazygit/wiki/Custom-Commands-Compendium#pushing-to-a-specific-remote-repository) pour sa:  
+   - les différente commande:
+   - `f1` pour faire un pull en choisisant la branche et le remote
+   - `f2` pour choisire le remote pour push
+   - `ctrl-v`pour faire un commit conventionelle 
+   
