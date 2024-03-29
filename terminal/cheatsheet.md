@@ -38,6 +38,13 @@
     - `aux` Display a detailed listing of all processes.
 - `kill [PID]` Kills a process using its Process ID (PID).
 - `top` Displays running processes and their resources.
+    - `q` Quit top.
+    - `k` Kill a process.
+    - `u` Specify user.
+    - `H` Toggle threads display.
+    - `P` Sort by CPU usage.
+    - `M` Sort by memory usage.
+    - `R` Reverse the sorting order.
 
 ### Archives and Compression
 
