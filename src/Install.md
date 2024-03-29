@@ -11,7 +11,7 @@
 export VER="0.40.2" && wget -O lazygit.tgz https://github.com/jesseduffield/lazygit/releases/download/v${VER}/lazygit_${VER}_Linux_x86_64.tar.gz
 ```
 
-3 -Extrayez le fichier téléchargé :
+3 -Extraire le fichier téléchargé :
 ```
 tar xvf lazygit.tgz
 ```
