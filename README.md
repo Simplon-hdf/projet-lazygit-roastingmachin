@@ -1,5 +1,5 @@
   <p align="center">
-  <img src="./res/Img/User_Manual.png" alt="image" width="300" height="auto">
+  <img src="./res/Img/Banner_readme.png" alt="image" width="600" height="auto">
 <h1 align="center">LazygitProject</h1>
 
 Bienvenue sur LazygitProject! Il s’agit d’un projet fantastique visant à fournir une solution complète pour notre promo `dev-inté-p2-2024`
