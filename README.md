@@ -203,7 +203,7 @@ Accès a la page [ici](./src/cheatsheet.md).
 ## Convention de nommage :bookmark_tabs:
 
 <p align="center">
-    <img src="./res/Img/Convention de nommage.png" width="300" height="auto">
+    <img src="./res/Img/Name_Convention.png" width="300" height="auto">
 </p>
   
   1. ### Nommage des fichiers :
