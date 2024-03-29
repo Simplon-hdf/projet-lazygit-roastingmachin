@@ -4,18 +4,18 @@
 - ls: Lists files and directories in the current directory.
 - cd [directory_name]: Changes the working directory.
 - pwd: Prints the path of the current directory.
-- mkdir [directory_name]: Creates a new directory.
-- rm [file_name]: Deletes a file.
-    - -rf : Deletes all child of this file or directory
-- rmdir [directory_name]: Deletes an empty directory.
-- cp [source] [destination]: Copies files or directories.
-- mv [source] [destination]: Moves or renames files or directories.
 - cat [file_name]: Displays the contents of a file.
 
 ### File Manipulation
 
 - touch [file_name]: Creates a new empty file.
 - nano [file_name]: Opens the file in the Nano text editor.
+- mkdir [directory_name]: Creates a new directory.
+- rm [file_name]: Deletes a file.
+    - -rf : Deletes all child of this file or directory
+- rmdir [directory_name]: Deletes an empty directory.
+- cp [source] [destination]: Copies files or directories.
+- mv [source] [destination]: Moves or renames files or directories.
 
 ### Permission Management
 
