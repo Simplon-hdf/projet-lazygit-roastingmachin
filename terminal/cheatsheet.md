@@ -68,7 +68,13 @@
 ### Archives and Compression
 
 - `tar -cvf [archive_name.tar] [files]` Creates a tar archive.
+    - `-c` : Crée une nouvelle archive.
+    - `-v` : Mode verbeux, montre les fichiers archivés.
+    - `-f [nom_archive.tar]` : Spécifie le nom de l'archive.
 - `tar -xvf [archive_name.tar]` Extracts a tar archive.
+    - `-x` : Extrait les fichiers d'une archive.
+    - `-v` : Mode verbeux, montre les fichiers extraits.
+    - `-f [nom_archive.tar]` : Spécifie le nom de l'archive.
 - `gzip [file_name]` Compresses a file using gzip.
 - `gunzip [file_name.gz]` Decompresses a gzip file.
 
