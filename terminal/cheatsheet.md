@@ -37,6 +37,7 @@
     - `-rf ` Deletes all child of this file or directory
 - `rmdir [directory_name]` Deletes an empty directory.
 - `cp [source] [destination]` Copies files or directories.
+    - `-r` : Copie récursivement les répertoires et leurs contenus.
 - `mv [source] [destination]` Moves or renames files or directories.
 
 ### Permission Management
