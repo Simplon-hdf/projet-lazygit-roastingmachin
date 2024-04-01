@@ -12,6 +12,11 @@
 - `pwd` Prints the path of the current directory.
 - `cat [file_name]` Display file contents.
 - `less [file_name]` View file contents one page at a time.
+    - `Barre d'espace` : Avance d'une page.
+    - `b` : Recule d'une page.
+    - `/motif` : Recherche vers l'avant pour la prochaine occurrence du motif.
+    - `?motif` : Recherche vers l'arrière pour l'occurrence précédente du motif.
+    - `q` : Quitte less.
 - `head [file_name]` Display the first few lines of a file.
 - `tail [file_name]` Display the last few lines of a file.
 - `grep [pattern] [file_name]` Search for a pattern in a file.
