@@ -20,6 +20,8 @@
 - `head [file_name]` Display the first few lines of a file.
     - `-n [num]` : Affiche les [num] premières lignes du fichier.
 - `tail [file_name]` Display the last few lines of a file.
+    - `-n [num]` : Affiche les [num] dernières lignes du fichier.
+    - `-f` : Affiche les données ajoutées au fur et à mesure que le fichier augmente de taille (tail -f).
 - `grep [pattern] [file_name]` Search for a pattern in a file.
 
 ### File Manipulation
