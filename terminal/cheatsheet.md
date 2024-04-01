@@ -18,6 +18,7 @@
     - `?motif` : Recherche vers l'arrière pour l'occurrence précédente du motif.
     - `q` : Quitte less.
 - `head [file_name]` Display the first few lines of a file.
+    - `-n [num]` : Affiche les [num] premières lignes du fichier.
 - `tail [file_name]` Display the last few lines of a file.
 - `grep [pattern] [file_name]` Search for a pattern in a file.
 
