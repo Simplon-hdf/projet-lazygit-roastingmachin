@@ -87,7 +87,7 @@
 	- `-l` Login name
 - `scp [file] [user@ip_address:destination]` Copies files via SSH.
 
-Help and Documentation
+### Help and Documentation
 
 - `man [command]` Displays the manual for a specific command.
     - `--help` Add this to a command to display quick help.
