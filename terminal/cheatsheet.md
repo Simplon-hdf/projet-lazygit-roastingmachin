@@ -23,6 +23,10 @@
     - `-n [num]` : Affiche les [num] dernières lignes du fichier.
     - `-f` : Affiche les données ajoutées au fur et à mesure que le fichier augmente de taille (tail -f).
 - `grep [pattern] [file_name]` Search for a pattern in a file.
+    - `-i` : Ignore les distinctions de cas dans le motif et les fichiers d'entrée.
+    - `-v` : Inverse la correspondance, sélectionnant les lignes non correspondantes.
+    - `-n` : Précède chaque ligne de sortie du numéro de ligne basé sur 1 dans son fichier d'entrée.
+    - `-r` : Recherche récursivement les sous-répertoires répertoriés.
 
 ### File Manipulation
 
