@@ -18,7 +18,7 @@ Pour faire l'exercice, vous aurez besoin d'avoir installé LazyGit. Voici un lie
    - Le sélectionner : on peut naviguer avec les flèches ou en faisant des clics 
    - Utiliser le raccourci `espace` pour l'ajouter 
 
-- [ ] Faire un commit avec comme message `doks: création d'un fichier` (oui la faute est voulue)
+- [ ] Faire un commit avec comme message `docs: création d'un fichier` (oui la faute est voulue)
    - Le raccourci pour commit est `c`
 
 - [ ] Faire un pull/push (les push et pull sont dirigés de base vers l'origine)
