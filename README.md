@@ -4,6 +4,8 @@
 
 Bienvenue sur LazygitProject! Il s’agit d’un projet fantastique visant à fournir une solution complète pour notre promo `dev-inté-p2-2024`
 
+test
+
 ## Table des matières
 
 - [Fonctionnalités](#fonctionnalités-mag_right)
